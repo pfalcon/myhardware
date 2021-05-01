@@ -5,3 +5,8 @@ vendor EOL). So, the content here is re-mirrored from
 http://natisbad.org (thanks!).
 
 * [Kirkwood and early ARMv5TE-based Armada 300/310](Kirkwood)
+
+Related:
+
+* [Linux kernel docs for Marvell SoCs](https://www.kernel.org/doc/html/latest/arm/marvell.html)
+  (available as of 5.12.0).
